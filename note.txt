@@ -1,0 +1,11 @@
+Dear TA:
+ONE student of our original group(3 members) dropped out this course. 
+(Hongxi Zhang 101037604)❌
+
+For this case, our professor suggested me to add a notification to explain the incident.
+Our two remaining team members will try our best to complete our project.
+But the UI part and the algorithm part of calculating Sudoku may not be perfect.
+And the final product interface may base on terminal control instead of a mature software / interactive interface.
+
+Thanks for your understand.
+Zhangwen Yan, Hanbo Zhang
