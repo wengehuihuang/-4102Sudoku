@@ -2,7 +2,7 @@
 comp4102 project
 
 Team member:
-Zhangwen Yan 101040231
+Zhangwen Yan 101040231 \n
 Hanbo Zhang  101014678
 
 Proposal:
