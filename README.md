@@ -1,7 +1,7 @@
 # -4102Sudoku
 comp4102 project
 
-Team member:
+Team member:                              
 Zhangwen Yan 101040231                        
 Hanbo Zhang  101014678
 
