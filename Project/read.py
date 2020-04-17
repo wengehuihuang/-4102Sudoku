@@ -143,6 +143,12 @@ for num in range(len(indexes_numbers)):
     sudoku_puzzle[indexes_numbers[num]] = result[num]
 sudoku_puzzle = sudoku_puzzle.reshape((SUDOKU_SIZE, SUDOKU_SIZE)).astype(np.int32)
 print(sudoku_puzzle)
+print("\nThe answer is shown below:\n")
+solveSudoku(sudoku_puzzle)
+print(sudoku_puzzle)
 
-
-
+print("\nCheck\n")
+row_sum = map(sum,sudoku_puzzle)
+col_sum = map(sum,zip(*sudoku_puzzle))
+print(list(row_sum))
+print(list(col_sum))
