@@ -1,17 +1,17 @@
 # -4102Sudoku
 comp4102 project
 
-Demo video: https://www.youtube.com/watch?v=BWC2Yyn5lVk
+**Demo video**: https://www.youtube.com/watch?v=BWC2Yyn5lVk
 
-Team member:                              
+**Team member:**                              
 Zhangwen Yan 101040231                        
 Hanbo Zhang  101014678
 
-Proposal:
+**Proposal:**
 read proposal.pdf
 
-Final paper:
+**Final paper:**
 read FinalWriteUp.pdf
 
-Please read note.txt
-Hongxi Zhang dropped out this course.
+**_ _Please read note.txt
+Hongxi Zhang dropped out this course.**
