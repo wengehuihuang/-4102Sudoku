@@ -92,5 +92,5 @@ for num in range(10):
 samples = np.array(samples,np.float32)
 labels = np.array(labels,np.float32)
 labels = labels.reshape((labels.size,1))
-np.save('samples.npy',samples)
-np.save('label.npy',labels)
+#np.save('samples.npy',samples)
+#np.save('label.npy',labels)
