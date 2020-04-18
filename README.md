@@ -14,5 +14,5 @@ read proposal.pdf
 ## **Final paper:**
 read FinalWriteUp.pdf
 
-## **_ _Please read note.txt
-Hongxi Zhang dropped out this course.**
+## Please read note.txt
+**_ _Hongxi Zhang dropped out this course.**
