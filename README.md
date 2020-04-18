@@ -10,5 +10,8 @@ Hanbo Zhang  101014678
 Proposal:
 read 4102sudoku.pdf
 
+Final paper:
+read FinalWriteUp.pdf
+
 Please read note.txt
 Hongxi Zhang dropped out this course.
