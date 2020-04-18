@@ -8,7 +8,7 @@ Zhangwen Yan 101040231
 Hanbo Zhang  101014678
 
 Proposal:
-read 4102sudoku.pdf
+read proposal.pdf
 
 Final paper:
 read FinalWriteUp.pdf
