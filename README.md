@@ -1,12 +1,12 @@
 # -4102Sudoku
-comp4102 project
+Sudoku project
 
 ## **Demo video**: 
 https://www.youtube.com/watch?v=BWC2Yyn5lVk
 
 ## **Team member:**                              
-Zhangwen Yan 101040231                        
-Hanbo Zhang  101014678
+Zhangwen Yan                        
+Hanbo Zhang  
 
 ## **Proposal:**
 read proposal.pdf
